@@ -21,4 +21,4 @@ Economia de Energia: Identifique oportunidades para reduzir o consumo e, consequ
 
 "Transforme a maneira como você consome energia e comece a economizar hoje – um cálculo inteligente pode ser o primeiro passo para um futuro mais sustentável e econômico."
 
-<img src="véidojoia">
+<img src="véidojoia.png">
